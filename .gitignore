@@ -11,3 +11,7 @@ node_modules/
 dist/
 build/
 coverage/
+
+uploads/users/
+uploads/products/
+uploads/categories/
